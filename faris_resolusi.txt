@@ -3,3 +3,4 @@ faris resolusi
 - konsisten2
 - konsisten3
 - konsisten4
+- konsisten5
