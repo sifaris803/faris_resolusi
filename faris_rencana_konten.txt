@@ -5,3 +5,4 @@ Rencana Belajar
 - Belajar Javascrip
 - Belajar codeligniter
 - Belajar Laravel
+belajar laravel 5-8
