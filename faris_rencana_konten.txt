@@ -7,4 +7,4 @@ Rencana Belajar
 - Belajar Laravel
 belajar laravel 5-8
 -struktur data dasar 
-fitur satu
+fitur 2
