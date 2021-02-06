@@ -1,0 +1,7 @@
+Rencana Belajar
+
+- Belajar Github
+- Belajar php
+- Belajar Javascrip
+- Belajar codeligniter
+- Belajar Laravel
